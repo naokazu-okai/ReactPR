@@ -1,0 +1,64 @@
+.schoolText {
+    width: 500px;
+    height: 380px;
+    margin-top: 20px;
+    margin-left: 780px;
+    text-shadow: 1px 0 5px black;
+    color: white;
+    position: absolute;
+    z-index: 3;
+}
+
+.circleText {
+    width: 500px;
+    height: 380px;
+    margin-top: 400px;
+    margin-left: 130px;
+    text-shadow: 1px 0 3px black;
+    color: white;
+    position: absolute;
+    z-index: 3;
+}
+
+.schoolImg {
+    background-image: url(../img/school.jpg);
+    background-size: cover;
+    width: 550px;
+    height: 350px;
+    margin-left: 100px;
+    position: absolute;
+    z-index: 3;
+}
+
+.sircleImg {
+    background-image: url(../img/circle.jpg);
+    background-size: cover;
+    width: 550px;
+    height: 350px;
+    margin-top: 370px;
+    margin-left: 750px;
+    position: absolute;
+    z-index: 3;
+}
+
+.shadow1 {
+    background-color: black;
+    width: 500px;
+    height: 280px;
+    margin-top: 10px;
+    margin-left: 730px;
+    opacity: 0.5;
+    position: absolute;
+    z-index: 2;
+}
+
+.shadow2 {
+    background-color: black;
+    width: 530px;
+    height: 320px;
+    margin-top: 390px;
+    margin-left: 115px;
+    opacity: 0.5;
+    position: absolute;
+    z-index: 2;
+}

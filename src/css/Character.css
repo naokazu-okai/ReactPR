@@ -1,0 +1,12 @@
+.CharacterBack {
+    background-image: url("/src/img/background3.jpg");
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    padding: 0px;
+    margin-left: -24px;
+    overflow: auto;
+    box-sizing: border-box;
+    background-size: cover;
+};

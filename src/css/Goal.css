@@ -1,0 +1,38 @@
+.GoalBack {
+    background-image: url("/src/img/Background.jpg");
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    padding: 8px;
+    margin-left: -24px;
+    overflow: auto;
+    box-sizing: border-box;
+    background-size: cover;
+}
+
+.ButtonBox {
+    width: 80px;
+    height: 80px;
+}
+
+.Job{
+    margin-top: 20px;
+    margin-left: 120px;
+    position: relative;
+    z-index: 4;
+}
+
+.Life {
+    margin-top: 140px;
+    margin-left: 240px;
+    position: relative;
+    z-index: 4;
+}
+
+.Hobbies {
+    margin-top: 140px;
+    margin-left: 360px;
+    position: relative;
+    z-index: 4;
+}

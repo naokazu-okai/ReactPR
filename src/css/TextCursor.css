@@ -1,0 +1,63 @@
+.textBox1 {
+    background-color: black;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    font-size: 25px;
+    border-width: 5px;
+    width: 90%;
+    height: 300px;
+    padding: 8px;
+    margin-left: 3%;
+    margin-top: 430px;
+    position:absolute;
+    z-index: 3;
+}
+
+.textBox2 {
+    background-color: black;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    font-size: 25px;
+    border-width: 5px;
+    width: 90%;
+    height: 300px;
+    padding: 8px;
+    margin-left: 3%;
+    margin-top: 430px;
+    position:absolute;
+    z-index: 3;
+}
+
+.textBox3 {
+    background-color: black;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    font-size: 25px;
+    border-width: 5px;
+    width: 90%;
+    height: 300px;
+    padding: 8px;
+    margin-left: 3%;
+    margin-top: 430px;
+    position:absolute;
+    z-index: 3;
+}
+
+.textBox4 {
+    background-color: black;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    font-size: 25px;
+    border-width: 5px;
+    width: 90%;
+    height: 300px;
+    padding: 8px;
+    margin-left: 3%;
+    margin-top: 430px;
+    position:absolute;
+    z-index: 3;
+}

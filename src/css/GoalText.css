@@ -1,0 +1,43 @@
+.JobText {
+    background-color: floralwhite;
+    border-style: solid;
+    border-color: black;
+    font-size: 30px;
+    padding: 15px;
+    text-align: center;
+    width: 900px;
+    height: 80px;
+    margin-left: 170px;
+    position: absolute;
+    z-index: 3;
+}
+
+.LifeText {
+    background-color: floralwhite;
+    border-style: solid;
+    border-color: black;
+    font-size: 30px;
+    padding: 15px;
+    text-align: center;
+    width: 840px;
+    height: 80px;
+    margin-top: 220px;
+    margin-left: 270px;
+    position: absolute;
+    z-index: 3;
+}
+
+.HobbiesText {
+    background-color: floralwhite;
+    border-style: solid;
+    border-color: black;
+    font-size: 30px;
+    padding: 15px;
+    text-align: center;
+    width: 600px;
+    height: 80px;
+    margin-top: 440px;
+    margin-left: 420px;
+    position: absolute;
+    z-index: 3;
+}
